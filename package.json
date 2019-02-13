@@ -1,0 +1,19 @@
+{
+  "name": "@isaiahiroko/ng-guards",
+  "keywords": [
+    "Angular",
+    "Guards",
+    "Routes"
+  ],
+  "description": "Angular routes guards to detect authenticated or unauthenticated users",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/isaiahiroko/ng-guards"
+  },
+  "peerDependencies": {
+    "@angular/common": "^6.0.0-rc.0 || ^6.0.0",
+    "@angular/core": "^6.0.0-rc.0 || ^6.0.0",
+    "@isaiahiroko/ng-utils": "0.0.0"
+  }
+}
